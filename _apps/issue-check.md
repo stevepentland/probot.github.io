@@ -19,8 +19,8 @@ organizations:
   - reedhhw
   - velotoxicsounds
   - hemanth22
-  - magnetica-studio
   - SmallDreams
+  - magnetica-studio
   - ahmed-al-bermawy
 ---
 
