@@ -15,7 +15,7 @@ installations: 78
 organizations:
   - owncloud
   - carla-simulator
-  - intel-isl
+  - isl-org
   - Varying-Vagrant-Vagrants
   - fwartner
   - microsoft
