@@ -10,9 +10,9 @@ authors:
   - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 3128
+stars: 3130
 updated: 2021-09-01 23:01:43 UTC
-installations: 13097
+installations: 13109
 organizations:
   - overtrue
   - hemanth
@@ -23,7 +23,7 @@ organizations:
   - lhie1
   - wei
   - instantbox
-  - rvrsh3ll
+  - ericmjl
 ---
 
 [![Probot Featured](https://badgen.net/badge/probot/featured/orange?icon=dependabot&style=flat&cache=86400)](https://probot.github.io)
