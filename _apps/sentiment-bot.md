@@ -11,7 +11,7 @@ authors:
 repository: behaviorbot/sentiment-bot
 updated: 2021-09-06 15:42:47 UTC
 host: https://probot-sentiment-bot.herokuapp.com
-installations: 175
+installations: 174
 organizations:
   - ant-design
   - nlohmann
