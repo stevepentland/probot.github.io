@@ -19,9 +19,9 @@ organizations:
   - telus
   - Hollywood
   - reedhhw
-  - OpenAIM
   - GameWith
   - Thezone1975
+  - OpenAIM
   - genesys
 ---
 
