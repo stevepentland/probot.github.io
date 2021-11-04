@@ -17,8 +17,8 @@ organizations:
   - laraform
   - CartoonFan
   - reedhhw
-  - velotoxicsounds
   - SmallDreams
+  - velotoxicsounds
   - hemanth22
   - magnetica-studio
   - Jankyboy
