@@ -9,8 +9,8 @@ authors:
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
 stars: 202
-updated: 2021-11-09 17:31:19 UTC
-installations: 1853
+updated: 2021-11-10 06:49:32 UTC
+installations: 1856
 organizations:
   - mrlesmithjr
   - pterm
