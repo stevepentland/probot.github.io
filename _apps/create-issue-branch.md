@@ -8,11 +8,10 @@ authors:
   - robvanderleek
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
-stars: 202
-updated: 2021-11-12 06:51:06 UTC
-installations: 1858
+stars: 203
+updated: 2021-11-13 06:49:01 UTC
+installations: 1863
 organizations:
-  - mrlesmithjr
   - pterm
   - zchee
   - lukaszflorczak
@@ -20,8 +19,9 @@ organizations:
   - ALBINPRAVEEN
   - nielse63
   - kwebio
-  - TotallyInformation
   - pojntfx
+  - TotallyInformation
+  - CoreProc
 ---
 # Create Issue Branch
 
