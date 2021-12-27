@@ -10,18 +10,18 @@ repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
 updated: 2021-10-18 17:14:07 UTC
-installations: 46
+installations: 47
 organizations:
   - RevenueCat
   - coolcode
   - laraform
   - CartoonFan
+  - XZot1K
   - reedhhw
   - SmallDreams
   - hemanth22
   - velotoxicsounds
   - magnetica-studio
-  - MiyoKouseki
 ---
 
 ## What It Does
