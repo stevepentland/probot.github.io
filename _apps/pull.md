@@ -12,7 +12,7 @@ repository: wei/pull
 host: https://pull.git.ci
 stars: 3389
 updated: 2021-12-27 15:44:31 UTC
-installations: 13913
+installations: 13914
 organizations:
   - overtrue
   - hemanth
