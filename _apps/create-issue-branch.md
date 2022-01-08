@@ -9,8 +9,8 @@ authors:
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
 stars: 216
-updated: 2022-01-06 06:59:07 UTC
-installations: 1923
+updated: 2022-01-07 06:59:24 UTC
+installations: 1929
 organizations:
   - guanguans
   - pterm
