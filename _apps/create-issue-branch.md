@@ -9,8 +9,8 @@ authors:
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
 stars: 216
-updated: 2022-01-10 07:08:02 UTC
-installations: 1939
+updated: 2022-01-11 07:00:39 UTC
+installations: 1941
 organizations:
   - guanguans
   - pterm
@@ -18,8 +18,8 @@ organizations:
   - ALBINPRAVEEN
   - mallowigi
   - nielse63
-  - kwebio
   - theodorusclarence
+  - kwebio
   - pojntfx
   - TotallyInformation
 ---
